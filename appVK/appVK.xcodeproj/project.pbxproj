@@ -13,6 +13,7 @@
 		C7FD4F1B24320E3200D27AC6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7FD4F1A24320E3200D27AC6 /* Assets.xcassets */; };
 		C7FD4F1E24320E3200D27AC6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7FD4F1D24320E3200D27AC6 /* Preview Assets.xcassets */; };
 		C7FD4F2124320E3200D27AC6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7FD4F1F24320E3200D27AC6 /* LaunchScreen.storyboard */; };
+		C7FD4F292432102D00D27AC6 /* LoginScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7FD4F282432102D00D27AC6 /* LoginScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C7FD4F1D24320E3200D27AC6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C7FD4F2024320E3200D27AC6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C7FD4F2224320E3200D27AC6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7FD4F282432102D00D27AC6 /* LoginScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				C7FD4F1F24320E3200D27AC6 /* LaunchScreen.storyboard */,
 				C7FD4F2224320E3200D27AC6 /* Info.plist */,
 				C7FD4F1C24320E3200D27AC6 /* Preview Content */,
+				C7FD4F282432102D00D27AC6 /* LoginScreen.swift */,
 			);
 			path = appVK;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C7FD4F1524320E3200D27AC6 /* AppDelegate.swift in Sources */,
+				C7FD4F292432102D00D27AC6 /* LoginScreen.swift in Sources */,
 				C7FD4F1724320E3200D27AC6 /* SceneDelegate.swift in Sources */,
 				C7FD4F1924320E3200D27AC6 /* ContentView.swift in Sources */,
 			);
